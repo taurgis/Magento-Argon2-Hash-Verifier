@@ -1,0 +1,16 @@
+{
+  "name": "magento-argon2-hash-verifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Magento", "Argon2", "Hash", "Verifier"],
+  "author": "Thomas Theunen",
+  "license": "MIT",
+  "dependencies": {
+    "argon2": "0.40.1",
+    "yargs": "17.7.2"
+  }
+}
